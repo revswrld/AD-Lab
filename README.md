@@ -126,6 +126,6 @@ When you sign into the VM, click "Other User" to sign into a domain account. Use
 </p>
 
 <h2>Summary</h2>
-In this lab, you created a functional Microsoft Active Directory domain controller with virtualization. You set up a domain controller, configured network adapters, installed and configured services such as DHCP, created users, added users to groups, and joined a workstation to the domain.
+In this lab, I created a functional Microsoft Active Directory domain controller with virtualization. I set up a domain controller, configured network adapters, installed and configured services such as DHCP, created users, added users to groups, and joined a workstation to the domain.
 
 </div>
